@@ -22,3 +22,13 @@ En conjunto, estos factores evidencian la necesidad de mejorar la forma en que s
 
 ## Preguntas y Respuestas (Q&A)
 ( 2 preguntas por persona)
+
+**Pregunta 1**
+¿Qué pasa si la información en el documento no se actualiza constantemente?
+**Respuesta:**
+Se pueden asignar responsables o establecer acuerdos dentro del equipo para mantener la información actualizada, al estar la información en un solo lugar, es más fácil identificar qué falta y corregirlo rápidamente.
+
+**Pregunta 2**
+¿No sería complicado para el equipo adaptarse a una nueva herramienta?
+**Respuesta:**
+No necesariamente, ya que herramientas como Google Docs o Notion son intuitivas y fáciles de usar, el beneficio de que la información este organizada compensa el pequeño tiempo de adaptación.
