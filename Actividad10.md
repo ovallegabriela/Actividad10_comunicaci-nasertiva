@@ -1,8 +1,9 @@
 ## Integrantes del equipo
-1.
-2.Jaqueline Gabriela Ovalle Aceituno 202505428
-3.
-4.
+1. 
+2.  Jaqueline Gabriela Ovalle Aceituno 202505428
+3. 
+4. 
+  
 # Propuesta: Uso de documentación compartida
 
 ## Problema
