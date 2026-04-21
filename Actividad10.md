@@ -27,7 +27,7 @@ En conjunto, estos factores evidencian la necesidad de mejorar la forma en que s
 
 
 ## Preguntas y Respuestas (Q&A)
-( 2 preguntas por persona)
+
 
 **Pregunta 1**
 ¿Qué pasa si la información en el documento no se actualiza constantemente?
