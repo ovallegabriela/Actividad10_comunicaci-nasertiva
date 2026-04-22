@@ -2,7 +2,7 @@
 1. Ana Isabel Castillo Lopez 202505902
 2.  Jaqueline Gabriela Ovalle Aceituno 202505428
 3.  Nataneli Ayeleth Hashajar Cajbón Sabán
-4. 
+4. Ixchel Panjoj Garcia
   
 # Propuesta: Uso de documentación compartida
 
@@ -35,7 +35,7 @@ En conjunto, estos factores evidencian la necesidad de mejorar la forma en que s
 ## Solución
 
 ---
-
+Para resolver la fragmentación del conocimiento y la ineficiencia operativa, es necesario implementar un sistema de gestión centralizada de la información que permita organizar, almacenar y acceder a los datos del proyecto de forma clara y confiable. En primer lugar, se debe establecer un repositorio único de información (por ejemplo, una plataforma en la nube), donde se concentren todos los documentos, avances y recursos del proyecto, funcionando como la fuente oficial de información. Tambien, es importante definir una estructura clara de organización, utilizando carpetas, categorías y nombres estandarizados para los archivos, lo que facilitará la búsqueda rápida y evitará el desorden. Asimismo, se debe implementar un control de versiones que garantice que todos trabajen con documentos actualizados, evitando duplicidad o confusión. Por otra parte, es necesario establecer protocolos de comunicación, donde los chats se utilicen únicamente para comunicación rápida y el repositorio para almacenar información formal. Finalmente, se debe fomentar una cultura de documentación dentro del equipo, en la que todos los integrantes registren sus avances, decisiones y cambios en el sistema centralizado. Como resultado, se logrará reducir la pérdida de tiempo, mejorar la comunicación y asegurar que todo el equipo trabaje con información clara, actualizada y accesible.
 ## Beneficios
 
 ---
@@ -79,5 +79,7 @@ Ana Isabel Castillo Lopez
 
 <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/e268ddba-a107-4749-bc57-bf3bdb42cb54" />
 
+Ixchel Panjoj Garcia
+<img width="1897" height="933" alt="Captura de pantalla 2026-04-21 195926" src="https://github.com/user-attachments/assets/a17c0e14-1af2-47ac-86bf-d95287d68662" />
 
 
