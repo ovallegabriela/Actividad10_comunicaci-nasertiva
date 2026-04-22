@@ -45,7 +45,7 @@ Se pueden asignar responsables o establecer acuerdos dentro del equipo para mant
 No necesariamente, ya que herramientas como Google Docs o Notion son intuitivas y fáciles de usar, el beneficio de que la información este organizada compensa el pequeño tiempo de adaptación.
 
 ## Capturas
-Jaqueline Ovalle
+Jaqueline Gabriela Ovalle Aceituno
 
 
 <img width="1919" height="1079" alt="Captura de pantalla 2026-04-20 191741" src="https://github.com/user-attachments/assets/8e0171f3-031c-4ab0-877e-29a1bbfe0dbe" />
