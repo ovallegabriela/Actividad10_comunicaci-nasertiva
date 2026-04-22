@@ -55,6 +55,18 @@ Se pueden asignar responsables o establecer acuerdos dentro del equipo para mant
 **Respuesta:**
 No necesariamente, ya que herramientas como Google Docs o Notion son intuitivas y fáciles de usar, el beneficio de que la información este organizada compensa el pequeño tiempo de adaptación.
 
+**Pregunta 3**
+¿Cómo se puede evitar que la información se vuelva desordenada dentro del documento compartido?
+
+**Respuesta:**
+Se puede establecer una estructura clara desde el inicio, como secciones definidas, títulos y un formato estándar. También es útil asignar responsabilidades para mantener el orden y revisar periódicamente el contenido.
+
+**Pregunta 4**
+¿Qué pasa si alguien del equipo no utiliza el documento compartido?
+
+ **Respuesta:**
+Es importante que todo el equipo esté de acuerdo en usar la herramienta como medio principal de información. Además, se pueden establecer normas básicas de trabajo para asegurar que todos participen y mantengan actualizado el documento.
+
 ---
 
 ## Capturas
