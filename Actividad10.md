@@ -1,7 +1,7 @@
 ## Integrantes del equipo
 1. 
 2.  Jaqueline Gabriela Ovalle Aceituno 202505428
-3. 
+3.  Nataneli Ayeleth Hashajar Cajbón Sabán
 4. 
   
 # Propuesta: Uso de documentación compartida
@@ -25,6 +25,7 @@ En conjunto, estos factores evidencian la necesidad de mejorar la forma en que s
 
 ## Beneficios
 
+Al aplicar la documentación compartida en el proyecto nos da muchos beneficios. En primer lugar, centraliza la información y evita que se pierda entre archivos y chats de los diferentes miebros, lo que facilita el acceso inmediato para todos los miembros del equipo. Además, mejora la organización al contar con un solo espacio de referencia y permite actualizaciones en tiempo real sin necesidad de reenviar documentos, reduciendo errores y confusiones por versiones distintas. También fomenta la colaboración activa, ahorra tiempo en la búsqueda de datos relevantes e incrementa la transparencia en el manejo de la información. A esto se suma que favorece la comunicación clara y estructurada, ofrece un historial de cambios para dar seguimiento, y se adapta fácilmente a herramientas como Google Docs o Notion. En conjunto, todo esto contribuye a una gestión más eficiente y profesional del proyecto, fortaleciendo el trabajo en equipo y la productividad.
 
 ## Preguntas y Respuestas (Q&A)
 
@@ -48,5 +49,11 @@ Jaqueline Ovalle
 
 
 <img width="1919" height="1079" alt="Captura de pantalla 2026-04-20 191741" src="https://github.com/user-attachments/assets/8e0171f3-031c-4ab0-877e-29a1bbfe0dbe" />
+
+
+Nataneli Ayeleth Cajbón Sabán 
+
+
+<img width="1865" height="781" alt="image" src="https://github.com/user-attachments/assets/23df4500-dbf9-4739-a914-e4c768862418" />
 
 
