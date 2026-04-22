@@ -1,8 +1,8 @@
 ## Integrantes del equipo
 1. Ana Isabel Castillo Lopez 202505902
 2.  Jaqueline Gabriela Ovalle Aceituno 202505428
-3.  Nataneli Ayeleth Hashajar Cajbón Sabán
-4. Ixchel Panjoj Garcia 202504845
+3.  Nataneli Ayeleth Hashajar Cajbón Sabán 202501861
+5. Ixchel Panjoj Garcia 202504845
   
 # Propuesta: Uso de documentación compartida
 
